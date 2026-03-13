@@ -9,7 +9,7 @@ I enjoy building scalable, high-performance systems that combine clean design an
 ## 🧠 Skills & Technologies
 
 ### 🖥️ Frontend
-- HTML • CSS • JavaScript • TypeScript • Vue.js • Nuxt • React  
+- HTML • CSS • JavaScript • TypeScript • Vue.js • Nuxt  
 - TailwindCSS • EJS Templates • Responsive Design  
 
 ### ⚙️ Backend
